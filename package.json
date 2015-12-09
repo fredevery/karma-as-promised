@@ -4,13 +4,13 @@
   "description": "A lightweight promise wrapper for Karma's public API",
   "main": "index.js",
   "peerDependencies": {
-    "karma": "^0.12.19"
+    "karma": "^0.13.15"
   },
   "dependencies": {
     "bluebird": "2"
   },
   "devDependencies": {
-    "karma": "^0.12.19",
+    "karma": "^0.13.15",
     "chai-as-promised": "4",
     "chai": "1",
     "sinon": "1",
