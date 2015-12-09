@@ -10,7 +10,7 @@
     "bluebird": "2"
   },
   "devDependencies": {
-    "karma": "~0.12.19",
+    "karma": "^0.12.19",
     "chai-as-promised": "4",
     "chai": "1",
     "sinon": "1",
