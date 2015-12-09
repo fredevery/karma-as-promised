@@ -4,7 +4,7 @@
   "description": "A lightweight promise wrapper for Karma's public API",
   "main": "index.js",
   "peerDependencies": {
-    "karma": "~0.12.19"
+    "karma": "^0.12.19"
   },
   "dependencies": {
     "bluebird": "2"
